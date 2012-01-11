@@ -1,0 +1,6 @@
+access_key_id: 11111111111111111111111
+secret_access_key: 222222222222222222222
+bucket_name: testbucket
+files:
+  public/: static/ #upload all public files ito the static folder
+
